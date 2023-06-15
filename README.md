@@ -1,11 +1,11 @@
 # QRCode_Generator
 
 QR code is 2D white & Black pixel patterns.
-🔍I used Google Chart API aa it stores 4000 Alpha numeric characters of text
+🔍I used Google Chart API as it stores 4000 Alpha-numeric characters of text.
 
 💡Advantages :
-🔅Easy to use, Quick and Store more information
-🔅It can be used at anytime by anyone
+🔅Easy to use, Quick and Store more information.
+🔅It can be used at anytime by anyone.
 
    GOOGLE Chart API 🖋
 🌐URL: https://chart.googleapis.com/chart?
